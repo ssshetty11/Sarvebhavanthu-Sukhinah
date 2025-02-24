@@ -39,7 +39,7 @@ As a **freelance developer**, I worked on this project to ensure a clean, respon
 To know more about yoga or join Sarve Bhavantu Sukhinaha, feel free to reach out!  
 📧 **Email**: vaniarun143@gmail.com 
 🔗 **Instagram**: https://www.instagram.com/yogamindfulness  
-🌐 **Portfolio**: 
+🌐 **Portfolio**: https://sarvebhavanthu-sukhinah.vercel.app/
 
 ## 🤝 Connect With Me  
 If you’re looking for a **freelance web developer** for similar projects, feel free to reach out!  
