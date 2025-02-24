@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿 Sarve Bhavantu Sukhinaha - Yoga Website 🧘‍♂️
 
-## Getting Started
+## 🌟 About Sarve Bhavantu Sukhinaha  
+Founded on **April 15, 2020**, **Sarve Bhavantu Sukhinaha** by **Vani Arun Prasad Hegde**" aims to promote happiness, peace, and overall well-being through yoga, especially during the pandemic. The organization has conducted **online yoga sessions, special events, and annual celebrations**, helping over **100 yoga enthusiasts** across different countries.  
 
-First, run the development server:
+### 🏆 Key Highlights:
+- **Event-Based Yoga Sessions**:  
+  - 🧘 **108 Sun Salutations** on **Ratha Saptami**  
+  - 🇮🇳 **75 Sun Salutations** on **Republic Day**  
+  - 💬 **Talk on Women’s Health** on **Women’s Day**  
+  - 🪔 Yoga sessions for **International Yoga Day**  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Holistic Approach to Yoga**:  
+  - **Raja Yoga** and **Bhakti Yoga** practices  
+  - **Cleansing Techniques**: Jalaneti, Vaman Dhauti, Laghu Shankha Prakshalana  
+  - **Relaxation Sessions**: Every **Friday** to reduce stress and boost immunity  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Inclusivity**: Open to all age groups, from **10-year-old kids to seniors above 60**  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Collaborations**: Partnering with **other yoga centers** to spread awareness and promote well-being  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 💻 About My Freelance Project  
+This website was developed as a **freelance project** to support the **mission of Sarve Bhavantu Sukhinaha**. The website serves as a digital platform to:  
+✅ Showcase **yoga classes, events, and techniques**  
+✅ Provide **information about upcoming sessions**  
+✅ Connect yoga enthusiasts across different regions  
 
-To learn more about Next.js, take a look at the following resources:
+As a **freelance developer**, I worked on this project to ensure a clean, responsive, and user-friendly design. The project allowed me to blend **technology and wellness**, creating a meaningful impact in the community.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📢 A Special Message  
+*"May all beings be happy and peaceful - Sarve Bhavantu Sukhinaha."* 🙏  
 
-## Deploy on Vercel
+---
+## 🤝 Connect With Vani 
+To know more about yoga or join Sarve Bhavantu Sukhinaha, feel free to reach out!  
+📧 **Email**: vaniarun143@gmail.com 
+🔗 **Instagram**: https://www.instagram.com/yogamindfulness  
+🌐 **Portfolio**: 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 Connect With Me  
+If you’re looking for a **freelance web developer** for similar projects, feel free to reach out!  
+📧 **Email**: shettysanchay@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/sanchay-shetty-81058b240/  
+🌐 **Portfolio**: https://sanchay-shetty.vercel.app/
