@@ -58,14 +58,14 @@ export default function Testimonial() {
       >
         Discover how yoga has transformed the lives of our students.
       </motion.p>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 ">
         {testimonials.map((testimonial, index) => (
           <motion.div
             key={index}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 * (index + 3) }}
-            className="bg-card p-6 rounded-lg shadow-md"
+            className="bg-card p-6 rounded-lg shadow-md bg-slate-100 hover:bg-slate-50 text-black"
           >
             <div className="flex items-center mb-4">
               <Image
@@ -80,7 +80,7 @@ export default function Testimonial() {
                 <p className="text-foreground">{testimonial.occupation}</p>
               </div>
             </div>
-            <p className="text-foreground mb-4 italic">{testimonial.quote}</p>
+            <p className="text-foreground mb-4 italic text-center content-center">{testimonial.quote}</p>
             <p className="text-foreground">
               <span className="font-semibold">Yoga Journey:</span> {testimonial.yogaJourney}
             </p>
@@ -98,7 +98,7 @@ export default function Testimonial() {
         </p>
         <Link
             href="/contact"
-            className="bg-primary px-6 py-3 rounded-full text-lg font-semibold hover:bg-slate-50/80 transition duration-300 bg-slate-50 text-black text-center"
+            className="bg-primary px-6 py-3 rounded-full text-lg font-semibold hover:bg-slate-50 transition duration-300 bg-slate-300 text-black text-center"
           >
             Book Your First Class 
           </Link>

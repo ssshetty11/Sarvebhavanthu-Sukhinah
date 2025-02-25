@@ -27,7 +27,7 @@ export default function Home() {
           </p>
           <Link
             href="/contact"
-            className="bg-primary px-6 py-3 rounded-full text-lg font-semibold hover:bg-primary/90 transition duration-300 bg-slate-50 hover:bg-slate-50/80 text-black"
+            className="bg-primary px-6 py-3 rounded-full text-lg font-semibold hover:bg-slate-200 transition duration-300 bg-slate-300 hover:bg-slate-50/80 text-black"
           >
             Start Your Journey
           </Link>
@@ -41,15 +41,16 @@ export default function Home() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
+            <Link
+              href="/about"
+              className="text-primary  transition duration-300"
+            >
             <h2 className="text-3xl font-bold text-primary mb-4">Hi Vani here,</h2>
             <p className="text-foreground mb-4">
               With over a decade of experience, I&apos;m dedicated to helping you find balance,
               strength, and inner peace through the practice of yoga.
             </p>
-            <Link
-              href="/about"
-              className="text-primary hover:underline transition duration-300"
-            >
+            
               Click and Learn More About My Journey
             </Link>
           </motion.div>
@@ -58,6 +59,10 @@ export default function Home() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
+            <Link
+              href="/about"
+              className="text-primary  transition duration-300"
+            >
             <Image
               src="/profilePic.jpeg"
               alt="Yoga Instructor"
@@ -65,6 +70,7 @@ export default function Home() {
               height={400}
               className="rounded-lg shadow-md"
             />
+            </Link>
           </motion.div>
         </div>
       </section>
@@ -85,7 +91,7 @@ export default function Home() {
 
                 <motion.div 
 
-                  className="bg-card rounded-lg shadow-md overflow-hidden cursor-pointer hover:shadow-lg transition-shadow duration-300"
+                  className="bg-slate-100 hover:bg-slate-50 text-black rounded-lg shadow-md overflow-hidden cursor-pointer hover:shadow-lg transition-shadow duration-300"
 
                   whileHover={{ scale: 1.03 }}
 

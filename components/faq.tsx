@@ -96,13 +96,13 @@ const Faq: React.FC = () => {
               {faqs.slice(0, visibleQuestions).map((item, index) => (
                 <motion.li
                   key={index}
-                  className="mb-4"
+                  className="mb-4 "
                   onClick={() => handleToggle(index)}
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: index * 0.1 }}
                 >
-                  <div className="border border-primary/20 p-4 rounded-md hover:bg-primary/10 transition-colors duration-300 cursor-pointer">
+                  <div className="border border-primary/20 p-4 rounded-md transition-colors duration-300 cursor-pointer bg-slate-100 hover:bg-slate-50 text-black">
                     <div className="flex justify-between items-center text-md font-montserrat">
                       <span className="text-foreground">{item.question}</span>
                       <button
@@ -155,7 +155,7 @@ const Faq: React.FC = () => {
           </div>
         </div>
       </motion.div>
-      <motion.div
+      {/* <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.6 }}
@@ -172,7 +172,7 @@ const Faq: React.FC = () => {
         >
           Choose Your Offer 
         </Link>
-      </motion.div>
+      </motion.div> */}
     </div>
   )
 }
