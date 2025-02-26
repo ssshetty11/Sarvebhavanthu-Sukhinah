@@ -17,7 +17,7 @@ export default function Testimonial() {
     {
       name: "Ranjitha Shashikant",
       age: 42,
-      occupation: "Software Engineer",
+      occupation: "Subject matter expert on smart meters",
       image: "/ranjithaProfile.jpeg",
       quote: `I have been practicing yoga for almost four years, and it has been one of the best decisions of my life. I never truly understood the incredible benefits of yoga until I started experiencing them myself. Yoga has significantly improved my body’s flexibility, calmed my mind, and enhanced my overall well-being. Vani is an exceptionally dedicated teacher whose clear instructions and constant motivation inspire us to push our limits and achieve more. I am so grateful to be part of her class`,
       yogaJourney: "it’s been a transformative journey!"
@@ -33,7 +33,7 @@ export default function Testimonial() {
     {
       name: "Priya P",
       age: 55,
-      occupation: "Retired Athlete",
+      occupation: "Director of Quality Assurance at Applied S&I",
       image: "/priyaProfile.jpeg",
       quote: `Vani Mam is an extraordinary yoga instructor. Since my daughter began attending her classes, I’ve observed remarkable improvements not only in her flexibility but also in her overall behavior and mindfulness. The transformative power of yoga on both physical health and mental well-being is undeniable, and we are immensely grateful for Vani Mam’s guidance in fostering these positive changes.`,
       yogaJourney: "Embarked on a yoga journey to complement a high-intensity fitness regime, discovering a profound balance between flexibility, strength, and mindfulness."
