@@ -1,8 +1,32 @@
 export const blogPosts = [
-    {
-      id: 1,
-      title: "Yoga for Beginners: Getting Started",
-      excerpt: `Sarve Bhavantu Sukhinaha was founded on 15th of April 2020 with the aim of promoting happiness,
+  {
+    id: 1,
+    title: "Yoga for a Happier Tomorrow: Sarvebhavanthu Sukhinah Yoga Kids Shine at Happy Streets",
+    excerpt: `  
+Yoga is not just an exercise; it is a way of life that nurtures physical, mental, and emotional well-being. This was beautifully demonstrated by the young and enthusiastic participants of Sarvebhavanthu Sukhinah Yoga, who showcased their Vinyasa Yoga skills at Happy Streets, an initiative by the Times of India and sponsored by Bheema Jewellers.
+
+A Celebration of Wellness and Community
+Happy Streets is a movement that encourages people to step outside, embrace a healthier lifestyle, and engage in fun-filled activities that promote fitness and well-being. The event transformed the streets into a vibrant space for creativity, sports, music, and, of course, yoga.
+
+Amidst the enthusiastic crowd, the Sarvebhavanthu Sukhinah Yoga Kids took center stage, performing a graceful and dynamic Vinyasa Yoga sequence. With seamless transitions between poses, synchronized breathwork, and unwavering focus, these young yogis mesmerized the audience. Their dedication and discipline reflected the deep-rooted benefits of yoga in fostering strength, flexibility, and mindfulness.
+
+The Power of Vinyasa Yoga
+Vinyasa Yoga, often called flow yoga, is a practice where movements are aligned with breath, creating a fluid and rhythmic sequence. It enhances coordination, builds endurance, and calms the mind, making it an excellent practice for both children and adults.
+
+The Sarvebhavanthu Sukhinah Yoga Kids demonstrated not only the physical grace of yoga but also its deeper essence—unity, peace, and self-awareness. Their performance was a testament to the transformative power of yoga in shaping young minds and bodies.
+
+Encouraging the Future Generation
+Events like Happy Streets provide a fantastic platform for children to showcase their talents, engage with the community, and embrace a healthy lifestyle. The initiative by the Times of India and Bheema Jewellers serves as a reminder of the importance of outdoor activities, social bonding, and holistic well-being.
+
+As the audience applauded the young performers, it was evident that yoga is not just an ancient practice but a modern necessity. With children leading the way, the future of wellness looks bright and promising.`,
+    date: "2024-02-17",
+    image: "/blog4.jpeg",
+    image2: "/blog4p2.jpeg"
+  },
+  {
+    id: 4,
+    title: "Yoga for Beginners: Getting Started",
+    excerpt: `Sarve Bhavantu Sukhinaha was founded on 15th of April 2020 with the aim of promoting happiness,
 peace, and overall well-being through the practice of yoga during the pandemic. Since then, more than
 100 yoga enthusiasts from different countries have attended online yoga sessions, annual celebrations,
 and special events.
@@ -23,14 +47,14 @@ collaborating with other yoga centers, they have spread awareness about the bene
 holistic approach.
 Let us end with 3 omkaras and the message of Sarve Bhavantu Sukhinaha - may all beings be happy and
 peaceful.`,
-      date: "2020-04-15",
-      image: "/logo.jpeg",
-      image2: "/logo.jpeg"
-    },
-    {
-      id: 2,
-      title: "Krish’s Experience at the 30th International Yoga Festival, Puducherry",
-      excerpt: `From January 4th to 7th, 2025, Puducherry played host to the grand 30th International Yoga Festival—a celebration of mindfulness, wellness, and the transformative power of yoga. Among the many attendees from across the globe, Krish embarked on this remarkable journey to deepen his practice, connect with like-minded individuals, and immerse himself in the essence of yoga.
+    date: "2020-04-15",
+    image: "/logo.jpeg",
+    image2: "/logo.jpeg"
+  },
+  {
+    id: 2,
+    title: "Krish’s Experience at the 30th International Yoga Festival, Puducherry",
+    excerpt: `From January 4th to 7th, 2025, Puducherry played host to the grand 30th International Yoga Festival—a celebration of mindfulness, wellness, and the transformative power of yoga. Among the many attendees from across the globe, Krish embarked on this remarkable journey to deepen his practice, connect with like-minded individuals, and immerse himself in the essence of yoga.
 
 Day 1: The Grand Opening and First Impressions
 Krish was greeted by the serene ambiance of Puducherry as the festival commenced with an inspiring inaugural ceremony. The venue, adorned with vibrant decorations and the peaceful chants of "Om," set the tone for the days ahead. The opening session featured yogic demonstrations by renowned practitioners, leaving Krish in awe of their mastery and dedication.
@@ -56,14 +80,14 @@ Krish left Puducherry with renewed energy, a stronger commitment to his yoga pra
 The 30th International Yoga Festival was more than an event for Krish—it was a journey of self-discovery and growth. As he returns home, he carries with him the teachings, memories, and inspiration to continue his yoga journey with greater passion and purpose.
 
 If you’ve ever considered exploring yoga or deepening your practice, events like this provide an unparalleled opportunity to connect, learn, and grow. As Krish would say, “Yoga is not just about flexibility; it’s about finding balance—in body, mind, and soul.`,
-      date: "2023-06-15",
-      image: "/blog2.jpeg",
-      image2: "/blog2.jpeg"
-    },
-    {
-      id: 3,
-      title: "Celebrating the Spirit of Bengaluru: Vinyasa Yoga Shines at Bengaluru Utsava",
-      excerpt: `The vibrant city of Bengaluru recently witnessed a grand celebration of culture, tradition, and talent at the Bengaluru Utsava, organized by Vijaya Karnataka in the heart of Basavanagudi. Among the many captivating performances that graced the event, the children from Sarvebhavanthu Sukhinah Yoga stole the spotlight with their mesmerizing Vinyasa Yoga flow performance. Their dedication, poise, and synchronization were truly a sight to behold, earning them the well-deserved award for the best performance.
+    date: "2023-06-15",
+    image: "/blog2.jpeg",
+    image2: "/blog2.jpeg"
+  },
+  {
+    id: 3,
+    title: "Celebrating the Spirit of Bengaluru: Vinyasa Yoga Shines at Bengaluru Utsava",
+    excerpt: `The vibrant city of Bengaluru recently witnessed a grand celebration of culture, tradition, and talent at the Bengaluru Utsava, organized by Vijaya Karnataka in the heart of Basavanagudi. Among the many captivating performances that graced the event, the children from Sarvebhavanthu Sukhinah Yoga stole the spotlight with their mesmerizing Vinyasa Yoga flow performance. Their dedication, poise, and synchronization were truly a sight to behold, earning them the well-deserved award for the best performance.
 
 Bengaluru Utsava: A Cultural Extravaganza
 
@@ -84,26 +108,25 @@ As the children proudly held their award, they not only brought honor to their c
 Conclusion
 
 Bengaluru Utsava continues to be a beacon of cultural celebration, bridging the past and the present, and fostering unity through art and expression. The remarkable performance by Sarvebhavanthu Sukhinah Yoga serves as a reminder of the city's rich talent and its commitment to holistic living. We look forward to more such inspiring moments in the years to come, as Bengaluru Utsava continues to shine as a true reflection of the city's spirit.`,
-      date: "2024-12-03",
-      image: "/blog3.jpeg",
-      image2: "/blog3p2.jpeg"
-    },
-    // {
-    //   id: 4,
-    //   title: "Yoga Poses for Better Sleep",
-    //   excerpt: "Try these relaxing yoga poses to improve your sleep quality...",
-    //   date: "2023-07-15",
-    //   image: "/images/yoga-sleep.jpg",
-    //   image2: "/images/yoga-sleep.jpg"
-    // },
-    // {
-    //   id: 5,
-    //   title: "Mindfulness Techniques for Stress Relief",
-    //   excerpt: "Learn practical mindfulness exercises to manage stress in your daily life...",
-    //   date: "2023-08-01",
-    //   image: "/images/mindfulness-stress.jpg",
-    //   image2: "/images/mindfulness-stress.jpg"
-    // }
-  ]
-  
-  
+    date: "2024-12-03",
+    image: "/blog3.jpeg",
+    image2: "/blog3p2.jpeg"
+  },
+  // {
+  //   id: 4,
+  //   title: "Yoga Poses for Better Sleep",
+  //   excerpt: "Try these relaxing yoga poses to improve your sleep quality...",
+  //   date: "2023-07-15",
+  //   image: "/images/yoga-sleep.jpg",
+  //   image2: "/images/yoga-sleep.jpg"
+  // },
+  // {
+  //   id: 5,
+  //   title: "Mindfulness Techniques for Stress Relief",
+  //   excerpt: "Learn practical mindfulness exercises to manage stress in your daily life...",
+  //   date: "2023-08-01",
+  //   image: "/images/mindfulness-stress.jpg",
+  //   image2: "/images/mindfulness-stress.jpg"
+  // }
+]
+
